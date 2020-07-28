@@ -1,0 +1,3 @@
+Angular provides some helpful filters known as Pipes which makes it very easy to format or transform the data value according to our needs.
+
+Pipes are used with a Pipe (|) character, it takes an input and returns a desired formatted output.

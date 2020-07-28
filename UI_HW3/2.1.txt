@@ -1,0 +1,6 @@
+TypeScript Code is converted into Plain JavaScript Code. 
+    TypeScript code is not understandable by the browsers. 
+    Thats why if the code is written in TypeScript then it is compiled and converted the code. 
+    By the help of JavaScript code, browsers are able to read the code and display.
+JavaScript is TypeScript. 
+    Whatever code is written in JavaScript can be converted to TypeScript by changing the extension from .js to .ts.

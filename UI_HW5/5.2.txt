@@ -1,0 +1,6 @@
+Lifecycle hooks are essential in any JavaScript framework. 
+All components have lifecycle hooks managed by Angular. 
+Angular creates the hooks, renders them, creates and renders their children, checks when data-bound properties change, and destroys them before removing them from the DOM.
+
+The main difference between constructor and ngOnInit is that ngOnInit is lifecycle hook and runs after constructor. 
+Component interpolated template and input initial values aren't available in constructor, but they are available in ngOnInit.
